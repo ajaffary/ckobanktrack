@@ -18,7 +18,7 @@ z_prime = derivative(right_curve_z(u), u)
 L = sqrt(x_prime^2 + y_prime^2 + z_prime^2)
 #show(numerical_integral(L, 0, pi/2))
 
-#Track piece
+#Track piece example change of line
 u, v = var('u, v')
 f_x(u, v) = v*cos(u)
 f_y(u, v) = v*sin(u)
