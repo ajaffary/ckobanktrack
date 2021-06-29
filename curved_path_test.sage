@@ -62,7 +62,8 @@ g_y(u, v) = v*(16-(12*(u-pi/2)/pi))*sin(u)
 h(u) = v*(16 - (12/pi)*(u-pi/2))
 g_z(u,v) = ( ( (h(u) - 16)/12 ) * ( 12*cos( (pi/11)*(right_curve_u(u) - 17) ) + 39.5 ) )/12
 c_xy=parametric_plot3d([g_x, g_y, g_z], (u, -pi/2, 0), (v, 0.99, 1.01), color="blue")
-T+c_xy+right_curve_xy_plane+f_right_curve+g_right_curve#+right_curve_2
+
+show(T+c_xy+right_curve_xy_plane+f_right_curve+g_right_curve)#+right_curve_2
 
 #show(cos(2).n(100))
 #show(cos(2).n(1000))
