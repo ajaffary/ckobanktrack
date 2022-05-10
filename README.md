@@ -7,5 +7,5 @@ Code to plot the surface gradients was provided by a helpful person at the [Ask 
 
 ![Aerial View No Floor](images/aerial_view_no_floor.png?raw=true "Aerial View without floor")
 
-![Aerial View No Floor](https://github.com/necrohell/ckobanktrack/blob/main/images/aerial_view_no_floor.png?raw=true "Aerial View without floor")
+<img src="images/aerial_view_no_floor.png?raw=true" alt="Aerial View No Floor" title="Aerial View without floor" width="150"/>
 
