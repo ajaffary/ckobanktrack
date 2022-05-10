@@ -5,4 +5,7 @@ Chicago Knockouts Roller Derby Bank Track with Paths
 
 Code to plot the surface gradients was provided by a helpful person at the [Ask SageMath](https://ask.sagemath.org/question/50138/plotting-a-surface-gradient/) forum.
 
-![Chicago Knockouts Bank Track](images/"screenshot (11)".png)
+![Aerial View No Floor](images/aerial_view_no_floor.png?raw=true "Aerial View without floor")
+
+![Aerial View No Floor](https://github.com/necrohell/ckobanktrack/blob/main/images/aerial_view_no_floor.png?raw=true "Aerial View without floor")
+
