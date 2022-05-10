@@ -1,5 +1,7 @@
 # ckobanktrack
-Chicago Knockouts Roller Derby Bank Track with Paths
+[Chicago Knockouts Roller Derby](https://www.instagram.com/chicagoknockouts/) Bank Track with Paths
+
+Built with [Sage Math](https://github.com/sagemath) software
 
 [Sage Math Cell rendering of the track](https://sagecell.sagemath.org/?q=pwguiv)
 
